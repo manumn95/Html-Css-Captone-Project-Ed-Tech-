@@ -13,7 +13,7 @@ This project is a **responsive Ed-Tech website** built using **HTML and CSS**. I
 - **CSS3** for styling and responsiveness
 - **Flexbox & Media Queries & Bootstrap** for a mobile-friendly design
 
-## Link:capstone-edtech-project-html-css.netlify.app
+ Link:"capstone-edtech-project-html-css.netlify.app"
 
 ## Output
 ![alt text](image.png)
